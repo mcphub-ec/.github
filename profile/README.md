@@ -37,3 +37,11 @@ Buscamos activamente contribuidores que quieran sumar nuevas plataformas (bancos
 -   💡 **Propón un nuevo MCP:** Abre un Issue en nuestro [repositorio Hub](https://github.com/mcphub-ec/hub/issues "null").
 -   🛡️ **Seguridad:** Lee nuestra [Política de Seguridad](https://github.com/mcphub-ec/hub/blob/main/SECURITY.md "null") antes de reportar vulnerabilidades.
 -   📖 **Reglas:** Revisa el [Código de Conducta](https://github.com/mcphub-ec/hub/blob/main/CODE_OF_CONDUCT.md "null").
+
+## 🏢 Desarrollado y Respaldado por
+
+Este ecosistema de código abierto es orgullosamente creado y mantenido por **UPGRADE-EC S.A.S.**
+
+Si buscas implementar estas tecnologías a escala corporativa, explorar nuestras soluciones comerciales de facturación listas para usar, o necesitas consultoría experta en automatización con IA, visítanos en:
+
+🌐 [**upgrade.ec**](https://upgrade.ec/ "null")
